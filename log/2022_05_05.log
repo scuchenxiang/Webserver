@@ -1,0 +1,33 @@
+2022-05-05 14:01:22.839178 [info]:  =============Server init================
+2022-05-05 14:01:22.839195 [info]:  Port: 1316,OpenLinger: false
+2022-05-05 14:01:22.839223 [info]:  Listen Mode: ET, Conn Mode: ET
+2022-05-05 14:01:22.839286 [info]:  Log level: 1
+2022-05-05 14:01:22.839306 [info]:  srcDir: /home/cx/桌面/webserver_new/my-WebServer-main/resources/
+2022-05-05 14:01:22.839318 [info]:  SqlConnPool num: 12, ThreadPool num: 6
+2022-05-05 14:01:22.839325 [info]:  ================Server start================
+2022-05-05 14:01:42.351918 [info]:  Client[18](127.0.0.1:20177) in, userCount: 1
+2022-05-05 14:01:42.352126 [info]:  Client[18] in!
+2022-05-05 14:01:42.352143 [info]:  Client[19](127.0.0.1:20689) in, userCount: 2
+2022-05-05 14:01:42.352153 [info]:  Client[19] in!
+2022-05-05 14:01:42.393769 [info]:  Client[20](127.0.0.1:21201) in, userCount: 3
+2022-05-05 14:01:42.393820 [info]:  Client[20] in!
+2022-05-05 14:01:42.393914 [info]:  Client[21](127.0.0.1:21713) in, userCount: 4
+2022-05-05 14:01:42.393938 [info]:  Client[21] in!
+2022-05-05 14:01:42.393989 [info]:  Client[22](127.0.0.1:22225) in, userCount: 5
+2022-05-05 14:01:42.394001 [info]:  Client[22] in!
+2022-05-05 14:01:42.395650 [info]:  Client[23](127.0.0.1:22737) in, userCount: 6
+2022-05-05 14:01:42.395700 [info]:  Client[23] in!
+2022-05-05 14:01:55.126779 [info]:  Verify name:cx pwd:123
+2022-05-05 14:02:03.785531 [info]:  Verify name:zyy pwd:123
+2022-05-05 14:02:11.811201 [info]:  Verify name:zyy pwd:123
+2022-05-05 14:03:11.916097 [info]:  Client[19] quit!
+2022-05-05 14:03:11.916289 [info]:  Client[19](127.0.0.1:20689) quit, userCount: 5
+2022-05-05 14:03:11.916344 [info]:  Client[18] quit!
+2022-05-05 14:03:11.916537 [info]:  Client[18](127.0.0.1:20177) quit, userCount: 4
+2022-05-05 14:03:11.916609 [info]:  Client[21] quit!
+2022-05-05 14:03:11.916677 [info]:  Client[21](127.0.0.1:21713) quit, userCount: 3
+2022-05-05 14:03:11.916847 [info]:  Client[23] quit!
+2022-05-05 14:03:11.916954 [info]:  Client[23](127.0.0.1:22737) quit, userCount: 2
+2022-05-05 14:03:11.916986 [info]:  Client[22] quit!
+2022-05-05 14:03:11.917024 [info]:  Client[22](127.0.0.1:22225) quit, userCount: 1
+2022-05-05 14:03:11.917051 [info]:  Client[20] quit!
